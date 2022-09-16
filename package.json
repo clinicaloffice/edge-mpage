@@ -23,6 +23,7 @@
     "@angular/platform-browser-dynamic": "~13.2.1",
     "@angular/router": "~13.2.1",
     "@clinicaloffice/clinical-office-mpage": "^3.1.19",
+    "fast-sort": "^3.2.0",
     "moment": "^2.29.1",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
