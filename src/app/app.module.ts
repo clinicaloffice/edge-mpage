@@ -7,7 +7,6 @@ import {MaterialModule} from "@clinicaloffice/clinical-office-mpage";
 import {ErrorHandlerService} from "@clinicaloffice/clinical-office-mpage";
 import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
-import {FlexLayoutModule} from "@angular/flex-layout";
 import {MatMomentDateModule, MomentDateAdapter} from '@angular/material-moment-adapter';
 import {DateAdapter, MAT_DATE_FORMATS, MAT_DATE_LOCALE} from '@angular/material/core';
 
@@ -21,7 +20,6 @@ import {DateAdapter, MAT_DATE_FORMATS, MAT_DATE_LOCALE} from '@angular/material/
     ClinicalOfficeMpageModule,
     MaterialModule,
     AppRoutingModule,
-    FlexLayoutModule,
     FormsModule,
     ReactiveFormsModule,
     MatMomentDateModule
