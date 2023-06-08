@@ -1,9 +1,22 @@
 # Clinical Office:MPage Edition Edge Template
 
+># *** THIS MPAGE TEMPLATE HAS BEEN RETIRED ***
+> Clinical Office: MPage Edition Version 4.0 has been released and due to a number of changes from both the Angular team and 
+> the retiring of Internet Explorer support in Angular we have made the decision to remove support for Internet Explorer in all
+> current versions of Clinical Office: MPage Edition in favor of supporting the newest versions of Angular.
+> 
+> While the edge-mpage template will work for your Angular MPage projects it will limit your ability to upgrade
+> Angular to a maximum version of Angular 14.
+> 
+> It is highly recommended that you no longer use this template for your new MPage projects and instead use the 
+> new mpage-template template found at https://github.com/clinicaloffice/mpage-template.
+> 
+> The new template will allow use of the most current version of Angular as well as Clinical Office: MPage Edition.
+
 This template has been designed to get you up and running with a new Clinical Office MPage
 with as little effort as possible.
 
-This template will support any version of Angular 12 or higher and is to be used only
+This template will support any version of Angular 13 - 14 and is to be used only
 in projects where the Microsoft Edge WebView controller is used as this project will not
 render in Internet Explorer.
 
